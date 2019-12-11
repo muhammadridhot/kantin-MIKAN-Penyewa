@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MIKAN_STAN</string>
+
+    <string-array name="No_Stan">
+        <item>Stan 01</item>
+        <item>Stan 02</item>
+        <item>Stan 03</item>
+        <item>Stan 04</item>
+        <item>Stan 05</item>
+        <item>Stan 06</item>
+        <item>Stan 07</item>
+        <item>Stan 08</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
